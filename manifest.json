@@ -1,0 +1,28 @@
+
+
+  {
+    "short_name": "Apier",
+    "name": "Apier",
+  
+   "icons": {
+  "16": "logo.png",
+  "128": "logo.png",
+  "256": "logo.png",
+  "48": "logo.png"
+   },
+   "manifest_version": 3,
+   "version": "1.0.0",
+   "description": "it's help to call backend apis",
+   "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "logo.png",
+      "128": "logo.png",
+      "256": "logo.png",
+      "48": "logo.png"
+       },
+        "default_title": "Apier"
+   }
+   
+  
+}
